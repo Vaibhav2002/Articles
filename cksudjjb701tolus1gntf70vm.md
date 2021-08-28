@@ -114,7 +114,7 @@ Have a look at your daily sleep 😴 amount and statistics of your sleep in the 
 - Healthify is made using Kotlin and following Modern Android Development practices.
 - Healthify uses all Jetpack libraries and follows MVVM architecture. It also has a G.O.A.T rating in Android's  M.A.D scorecard.
 - Healthify's code follows all the best practices and software development principles which make it a very good learning resource for beginners.
-
+- Healthify's code is properly linted using Ktlint.
 
 ![summary.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1629894600750/lYuPA7nYY.png)
 

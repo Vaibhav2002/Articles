@@ -214,6 +214,8 @@ If you want to have a look at the source code of the app, here is the link to th
 
 You can download the latest version of Quizzify from https://github.com/Vaibhav2002/Quizzify/releases/tag/v1.0.0
 
+You can even download from PlayStore from https://play.google.com/store/apps/details?id=dev.vaibhav.quizzify
+
 **Feel free to contribute to Quizzify and raise issues if you find any.**
 
 

@@ -109,6 +109,8 @@ All the logs we write can be seen together in the **Android Studio's Logcat**.
 
 ## Debugger 🪲
 
+%[https://tenor.com/en-GB/view/monkey-developer-software-coding-debug-gif-15160023] 
+
 #### What is it?
 
 **Debugger** in Android Studio is a powerful tool that allows us to identify and fix issues in our Android app. It enables us to step through our code, **inspect variables**, and set **breakpoints** to pause the execution of our code at specific points, helping us to understand the flow of our code and find bugs. With the help of the debugger, we can debug our code and see how it executes in real-time, making it an essential tool for anyone developing Android apps.

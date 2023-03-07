@@ -44,6 +44,8 @@ So without further adieu, let's start with our Debugging Tools and Techniques.
 
 %[https://tenor.com/en-GB/view/date-everywhere-data-digital-marketing-gif-24166770] 
 
+#### What is it?
+
 The **Database Inspector** is a tool in Android Studio that allows us to see and modify data saved in the app's database directly from the IDE. We can even run our **SQL queries** on the database in real-time. We get real-time updates on our database. This can be incredibly useful for debugging as well as for testing **database-related features** in our app.
 
 #### How to use it?
@@ -63,6 +65,8 @@ This tool is very useful if your app has some database-related bugs that you can
 ## Network Inspector 🌐
 
 %[https://tenor.com/en-GB/view/gntl-coin-gntl-network-crypto-cryptocurrency-gif-23491776] 
+
+#### What is it?
 
 **Network Inspector** is the most helpful tool there in Android Studio. We often make API calls in-app and believe me or not, there are always issues happening with API calls, sometimes the response isn't correct or the request isn't being sent correctly,  
 getting some random HTTP codes and so many more. I am sure all Android Developers agree with me.  
@@ -89,6 +93,8 @@ While I was working on [DocuBox](https://github.com/Vaibhav2002/DocuBox-AndroidA
 
 %[https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif] 
 
+#### What is it?
+
 The **all-time classic way of Debugging**. Just keep typing `print()` statements back to back and find out where they went wrong. The classic "I am here" log still remains everyone's favourite. Jokes apart, **logging** is still quite powerful if used correctly. There are moments when adding breakpoints and using a debugger just does not seem to work, logging becomes really helpful in such cases.
 
 #### How to use it?
@@ -102,6 +108,8 @@ All the logs we write can be seen together in the **Android Studio's Logcat**.
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677932600282/d089673b-163d-40de-a906-8ed169951bd6.png align="center")
 
 ## Debugger 🪲
+
+#### What is it?
 
 **Debugger** in Android Studio is a powerful tool that allows us to identify and fix issues in our Android app. It enables us to step through our code, **inspect variables**, and set **breakpoints** to pause the execution of our code at specific points, helping us to understand the flow of our code and find bugs. With the help of the debugger, we can debug our code and see how it executes in real-time, making it an essential tool for anyone developing Android apps.
 
@@ -120,6 +128,8 @@ Debugger is very helpful in knowing what data is present, what decisions are bei
 ## Layout Inspector
 
 %[https://tenor.com/en-GB/view/kstr-kochstrasse-layout-design-gif-14628090] 
+
+#### What is it?
 
 The **Layout Inspector** is a powerful tool in Android Studio that allows us to inspect and debug the user interface of our Android apps. It provides a **visual representation** of the **layout hierarchy** of our app's UI, allowing us to see how different UI elements are arranged. With the Layout Inspector, we can easily identify and resolve issues related to UI design, such as **layout problems, rendering issues**, and performance issues. This tool is essential for those who want to create high-quality apps that perform well on a variety of devices. In this way, the Layout Inspector is a great tool to create apps that are both **visually appealing and performant**.
 
@@ -146,6 +156,8 @@ Seeing our layout in a flat view might not be very helpful at times when we want
 
 %[https://tenor.com/en-GB/view/design-designer-client-punch-gif-17736153] 
 
+#### What is it?
+
 As mobile app developers, we want our apps to look good on all types of screens, be it a **phone**, a **tablet** or a **foldable**, so we have to test it on all devices but keeping all types of devices is not possible for everyone and making multiple emulators chokes our Storage and RAM. Here comes **Layout Validator** to the scene. **Layout Validator** lets us see our design on all kinds of screens in Android Studio itself without running any emulator. We can just select the devices we want and see how the design looks in each of them.
 
 #### How to use it?
@@ -162,6 +174,8 @@ This helps us solve a lot of **UI layout-related bugs**, like the screen looking
 ## Profiler
 
 %[https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif] 
+
+#### What is it?
 
 **Profiler** is a crucial tool for all Android Developers, it lets us optimize the **performance** of our apps by allowing us to **monitor and identify issues** in CPU usage, memory allocation, energy consumption and network connectivity. By using Profiler we get to know what is causing issues a.k.a. bugs and why it is there at all. Hence we can then work on it and **optimize** our app to provide to most fluent and smooth **User Experience.**  
 Using Profiler we can do 3 types of profiling, and they are:

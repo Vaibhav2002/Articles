@@ -4,6 +4,7 @@ datePublished: Tue Mar 07 2023 08:02:42 GMT+0000 (Coordinated Universal Time)
 cuid: clexyrajz000f09mj7vfa6yro
 slug: debugging-android-apps-like-a-pro-essential-tools-in-android-studio
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678175960552/fceb9383-c7c4-4f16-b2d0-498c6e20fbfe.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678176827698/604ed35a-4f20-414a-a231-611e37e4793e.png
 tags: user-experience, debugging, android, android-studio, debuggingfeb
 
 ---
